@@ -1,0 +1,12 @@
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\bin\Debug\net5.0\Sistema.Entidades.deps.json
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\bin\Debug\net5.0\Sistema.Entidades.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\bin\Debug\net5.0\ref\Sistema.Entidades.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\bin\Debug\net5.0\Sistema.Entidades.pdb
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\Sistema.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\Sistema.Entidades.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\ref\Sistema.Entidades.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.Entidades\obj\Debug\net5.0\Sistema.Entidades.pdb

@@ -1,0 +1,15 @@
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\bin\Debug\net5.0\Sistema.DAO.deps.json
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\bin\Debug\net5.0\Sistema.DAO.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\bin\Debug\net5.0\ref\Sistema.DAO.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\bin\Debug\net5.0\Sistema.DAO.pdb
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\bin\Debug\net5.0\Sistema.Entidades.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\bin\Debug\net5.0\Sistema.Entidades.pdb
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.csproj.AssemblyReference.cache
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.AssemblyInfoInputs.cache
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.AssemblyInfo.cs
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.csproj.CopyComplete
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\ref\Sistema.DAO.dll
+C:\Users\gabriel.gussantos\source\repos\Sistema.view\Sistema.DAO\obj\Debug\net5.0\Sistema.DAO.pdb
